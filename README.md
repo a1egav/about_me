@@ -5,8 +5,8 @@
 - 
 - 
 ## 🛠️ Технологии и инструменты
+![Yandex Datalens](https://img.shields.io/badge/Yandex%20Datalens-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 
