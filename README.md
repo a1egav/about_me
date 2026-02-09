@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="pasha.gif" width="498" alt="pasha">
+  <img src="pasha.gif" width="600" alt="pasha">
 </p>
+
+<div align="center">
 
 ### 🛠️ skills
 
@@ -12,3 +14,5 @@
 ### 📫 contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a1egav)
+
+</div>
