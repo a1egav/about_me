@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pasha.gif" width="400" alt="pasha">
+  <img src="pasha.gif" width="498" alt="pasha">
 </p>
 
 ### 🛠️ skills
