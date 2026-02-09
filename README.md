@@ -7,5 +7,5 @@ Data Analyst
 ![Yandex DataLens](https://img.shields.io/badge/Yandex_Data_Lens-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 ![BPMN](https://img.shields.io/badge/BPMN-009688?style=for-the-badge&logo=diagram&logoColor=white)
 
-connect
+### connect
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a1egav)
